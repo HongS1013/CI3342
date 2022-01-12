@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'information_interaction.pdf',
+    value: 'Syllabus_CI3342.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
